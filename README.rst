@@ -13,7 +13,7 @@ Note:The project is currently under ongoing refinement, and the code is provided
 
 Dataset details
 ---------------
-To download the dataset (compressed in .zip), request a public download link by completing a `simple form <https://www.wjx.cn/vm/OCJUux2.aspx# >`
+To download the dataset (compressed in .zip), request a public download link by completing a `simple form <https://www.wjx.cn/vm/OCJUux2.aspx#>`_.
 
 
 Citing
